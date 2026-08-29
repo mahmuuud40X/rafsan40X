@@ -2,41 +2,7 @@
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=180&section=header&text=ABDULLAH%20AL%20MAMUN&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=55&descSize=16"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+ACCESSING+SECURE+TERMINAL...;%3E+IDENTITY%3A+ABDULLAH+AL+MAMUN;%3E+ROLE%3A+DEVELOPER+%2F+SECURITY+ENTHUSIAST;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+WELCOME+TO+MY+DIGITAL+LAB_"/><br><img src="https://komarev.com/ghpvc/?username=mahmuuud40x&label=PROFILE+SCANS&color=00ff41&style=for-the-badge"/></div>---
 
-"root@abdullah:~$ ./initialize"
 
-╔══════════════════════════════════════════════════════════╗
-║                 🔐 SECURE TERMINAL                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  USER        : Abdullah Al Mamun                         ║
-║  LOCATION    : Bangladesh 🇧🇩                            ║
-║  ROLE        : Developer / Cybersecurity Enthusiast      ║
-║                                                          ║
-║  FRONTEND    : ██████████████████████░░░░  90%          ║
-║  PYTHON      : ███████████████████░░░░░░░  85%          ║
-║  SECURITY    : ████████████████░░░░░░░░░░  75%          ║
-║  AUTOMATION  : █████████████████░░░░░░░░░  80%          ║
-║                                                          ║
-║  SYSTEM      : ONLINE                                    ║
-║  FIREWALL    : ACTIVE                                    ║
-║  LEARNING    : UNLIMITED                                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-
-«"Think like a hacker. Build like an engineer."»
-
-I'm a developer passionate about technology, cybersecurity, programming and building useful digital experiences.
-
-$ focus --current
-
-[+] Modern Web Development
-[+] Python Programming
-[+] Cybersecurity
-[+] Automation
-[+] Open Source
-[+] Continuous Learning
-
----
 
 🧬 "./tech_stack"
 
