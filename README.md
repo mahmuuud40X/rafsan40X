@@ -54,23 +54,5 @@ root@abdullah:~$ _
 <img src="https://img.shields.io/badge/FACEBOOK-00FF41?style=for-the-badge&logo=facebook&logoColor=000000"/>
 </a></div>---
 
-☠️ "./mission"
-
-╔══════════════════════════════════════════════════════╗
-║                  CURRENT MISSION                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [✓] BUILD                                            ║
-║  [✓] LEARN                                            ║
-║  [✓] EXPLORE                                          ║
-║  [✓] EXPERIMENT                                       ║
-║  [✓] BREAK → FIX → IMPROVE                            ║
-║                                                      ║
-║  NEXT TARGET:                                         ║
-║  └── Become better than yesterday.                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-
----
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Connection+secured...;%3E+Thanks+for+visiting+my+terminal.;%3E+See+you+on+the+other+side_"/><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer"/></div>
