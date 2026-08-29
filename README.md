@@ -27,3 +27,46 @@
 > Cybersecurity Enthusiast
 > Automation Explorer
 > Open Source Learner
+I'm a passionate developer from Bangladesh focused on building modern, responsive web experiences while exploring programming, automation, Linux, and cybersecurity.
+./focus
+💻 Frontend Development
+🐍 Python Programming
+🔐 Cybersecurity
+⚡ Automation
+🐧 Linux
+🚀 Continuous Learning
+⚡ tech_stack
+�
+￼ 
+
+📊 github_analytics
+�
+￼ ￼ 
+
+�
+￼ 
+
+📈 contribution_activity
+�
+￼ 
+
+🌐 connect
+�
+
+�
+￼ 
+�
+￼ 
+�
+￼ 
+�
+
+�
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   > BUILD. LEARN. BREAK. FIX. REPEAT.       ║
+║                                              ║
+║   "Build quietly. Let your code make noise." ║
+║                                              ║
+╚══════════════════════════════════════════════╝
